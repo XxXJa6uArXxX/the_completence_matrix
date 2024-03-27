@@ -12,3 +12,4 @@ C:\Users\valer\Documents\GitHub\the_completence_matrix\obj\Debug\net8.0\refint\t
 C:\Users\valer\Documents\GitHub\the_completence_matrix\obj\Debug\net8.0\the_completence_matrix.pdb
 C:\Users\valer\Documents\GitHub\the_completence_matrix\obj\Debug\net8.0\the_completence_matrix.genruntimeconfig.cache
 C:\Users\valer\Documents\GitHub\the_completence_matrix\obj\Debug\net8.0\ref\the_completence_matrix.dll
+C:\Users\valer\Documents\GitHub\the_completence_matrix\obj\Debug\net8.0\the_completence_matrix.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("the_completence_matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6610d4b99acf0f715c6d0900c1134f7aacc8dfaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("the_completence_matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("the_completence_matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
