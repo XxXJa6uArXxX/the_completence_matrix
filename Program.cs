@@ -21,10 +21,10 @@ class Program
         
         string[] arr = new string[] {"Программист", "Тестировщик", "Аналитик", "Проджект-менеджер", "Продакт-менеджер"};
 
-
-        Console.WriteLine($"Введите значение для элемента {names[i]} (от 0 до 5):");
+        
         for (int i = 0; i < userArray.Length; i++)
         {
+            Console.WriteLine($"Введите значение для элемента {names[i]} (от 0 до 5):");
             // Чтение и проверка ввода пользователя.
             int value;
             while (!int.TryParse(Console.ReadLine(), out value) || value < 0 || value > 5)
@@ -37,11 +37,10 @@ class Program
         // Добавление пользовательского массива в список массивов
         Array.Resize(ref arrays, arrays.Length + 1);
         arrays[arrays.Length - 1] = userArray;
-
         // Вывод всех массивов
         for (int i = 0; i < arrays.Length; i++)
         {
-            Console.WriteLine($"{arr[i]} {i + 1}: {string.Join(", ", arrays[i])}");
+            Console.WriteLine($"Максимальное число портрета '{arr[i]}': {string.Join(", ", arrays[i])}");
         }
 
         // Подсчет и вывод суммы каждого массива
